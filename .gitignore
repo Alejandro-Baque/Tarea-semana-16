@@ -1,0 +1,19 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Variables de entorno
+.env
+
+# Archivos del editor
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

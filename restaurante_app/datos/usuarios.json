@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "EMP001",
+        "nombre": "Alejandro Baque",
+        "correo": "alejandrobaquets@gmail.com",
+        "usuario": "alejandrobaquets",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1234567890",
+        "nombre": "Byron Baque",
+        "correo": "baquebyronalejo@gmail.com",
+        "usuario": "byron.admin",
+        "rol": "Administrador"
+    }
+]

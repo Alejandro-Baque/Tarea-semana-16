@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "hamburguesa",
+        "categoria": "comida",
+        "precio": 5.0,
+        "stock": 6
+    },
+    {
+        "codigo": "P002",
+        "nombre": "yogurt",
+        "categoria": "comida",
+        "precio": 1.0,
+        "stock": 2
+    }
+]
